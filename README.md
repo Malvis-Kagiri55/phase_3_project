@@ -1,5 +1,5 @@
 # Predicting Customer Churn in Telecommunications
-<img src="images/Telecommunications-licensing-in-Kenya.png"
+<img src="images/Telecommunications-licensing-in-Kenya.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 #### Context:
