@@ -96,7 +96,7 @@ There appears to be a huge spike in the rate of churn for customers who make 4 o
 ### Results, Future Investigations and Recommendations:
 
 ### Best model:
-Our best model was a Random Forest model which produced an AUC of 93.7 on the test data and only 1.8% of the model's predictions on the test data were labeled as false negatives. 
+Our best model was a Random Forest model which produced an AUC of 92.6 on the test data and only 1.8% of the model's predictions on the test data were labeled as false negatives. 
 
 The parameters of this model were:
 >* max_depth=20
